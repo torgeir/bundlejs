@@ -14,8 +14,8 @@ awesome.js
 
 all.js
 
-      // bundle awesome.js
     (function () {
+      // bundle awesome.js
     })();
 
 bundle.js
